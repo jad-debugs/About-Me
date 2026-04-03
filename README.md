@@ -1,2 +1,3 @@
 # About-Me
-Github Pages project about me
+Jad's User Page
+My favorite programming language is C!
